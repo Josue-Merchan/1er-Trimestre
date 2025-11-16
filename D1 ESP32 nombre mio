@@ -19,4 +19,4 @@ def do_connect(ssid, password):
     print(' Hostname actual:', sta_if.config('dhcp_hostname'))
 
 
-do_connect('JOU2022', 'merchan2022')
+do_connect('josue', 'merchan2')
